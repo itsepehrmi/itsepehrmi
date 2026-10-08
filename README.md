@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Sepehr 👋
 
-<!--
-**itsepehrmi/itsepehrmi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+DevOps enthusiast based in Iran. Currently focused on mastering the DevOps toolchain through hands-on projects.
 
-Here are some ideas to get you started:
+## Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **OS**: Linux (Ubuntu), Shell Scripting
+- **Containers**: Docker, Docker Compose
+- **Automation**: Ansible
+- **VCS**: Git, GitHub
+- **Web**: Nginx, Flask
+
+## Currently Learning
+
+- Kubernetes
+- Terraform
+- AWS
+
+## Featured Projects
+
+👉 See pinned repositories above
+
+## Connect
+
+- GitHub: [@itsepehrmi](https://github.com/itsepehrmi)
